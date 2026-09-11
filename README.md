@@ -1,4 +1,4 @@
-# ✨ AuraDesign // AI Frontend Canvas Engine
+#  AuraDesign // AI Frontend Canvas Engine
 
 <p align="center">
   <img src="public/favicon.svg" alt="AuraDesign Logo" width="80" height="80" />
